@@ -183,9 +183,9 @@
 #resume-skill-item(
   "Spoken Languages",
   (
-    strong("French"),
-    strong("English"),
-    "German",
+    strong("French (native)"),
+    strong("English (fluent)"),
+    "German (basic)",
   ),
 )
 
@@ -194,7 +194,7 @@
 #resume-entry(
   title: "PSL Research University",
   location: "Paris, France",
-  date: "Dec. 2021 - Apr. 2025",
+  date: "Dec. 2021 - expected Apr. 2025",
   description: "Doctor of Philosophy",
   title-link: "https://psl.eu/en",
 )
