@@ -242,39 +242,65 @@
 = Publications
 
 #set text(size: 7pt)
-- Bertolo, Adrien, Jeremy Ferrier, Silvia Cazzanelli, *Samuel Diebolt*, Mickael Tanter,
+- Nicolas Zucker, *Samuel Le Meur-Diebolt*, Felipe Cybis Pereira, Jerome Baranger,
+  Isabella Hurvitz, Charlie Demené, Bruno Osmanski, et al. “PhysiofUS : A Tissue-Motion
+  Based Method for Heart and Breathing Rate Assessment in Neurofunctional Ultrasound
+  Imaging,” September 24, 2024. https://doi.org/10.1101/2024.09.22.614324.
+- Jean-Charles Mariani, *Samuel Diebolt*, Laurianne Beynac, Renata Santos, Stefan
+  Schulz, Thomas Deffieux, Mickael Tanter, Zsolt Lenkei, and Andrea Kliewer.
+  “Opioid-Induced Inter-Regional Dysconnectivity Correlates with Analgesia in Awake
+  Mouse Brains,” July 31, 2024. https://doi.org/10.1101/2024.07.30.604249.
+- Adrien Bertolo, Jeremy Ferrier, Silvia Cazzanelli, *Samuel Diebolt*, Mickael Tanter,
   Sophie Pezet, Mathieu Pernot, Bruno-Félix Osmanski, and Thomas Deffieux. “High
   Sensitivity Mapping of Brain-Wide Functional Networks in Awake Mice Using Simultaneous
   Multi-Slice fUS Imaging.” Imaging Neuroscience 1 (November 15, 2023): 1–18.
   https://doi.org/10.1162/imag_a_00030.
-- Mariani, Jean-Charles, *Samuel Diebolt*, Laurianne Beynac, Renata Santos, Stefan
-  Schulz, Thomas Deffieux, Mickael Tanter, Zsolt Lenkei, and Andrea Kliewer.
-  “Opioid-Induced Inter-Regional Dysconnectivity Correlates with Analgesia in Awake
-  Mouse Brains,” July 31, 2024. https://doi.org/10.1101/2024.07.30.604249.
-- Zucker, Nicolas, *Samuel Le Meur-Diebolt*, Felipe Cybis Pereira, Jerome Baranger,
-  Isabella Hurvitz, Charlie Demené, Bruno Osmanski, et al. “PhysiofUS : A Tissue-Motion
-  Based Method for Heart and Breathing Rate Assessment in Neurofunctional Ultrasound
-  Imaging,” September 24, 2024. https://doi.org/10.1101/2024.09.22.614324.
 
 = Posters in International Conferences
 
-- *Samuel Diebolt*, Jean-Charles Mariani, Andrea Kliewer, Laurianne Beynac, Renata
-  Santos, Bruno-Felix Osmanski, Mickael Tanter, Thomas Deffieux, and Zsolt Lenkei.
-  "Benchmarking of individual-level preprocessing strategies for pharmaco-fUS" at FENS
-  Forum 2022.
-- *Samuel Diebolt*, Jean-Charles Mariani, Andrea Kliewer, Laurianne Beynac, Renata
-  Santos, Bruno-Felix Osmanski, Mickael Tanter, Thomas Deffieux, and Zsolt Lenkei.
-  "Benchmarking of individual-level preprocessing strategies for pharmaco-fUS" at SfN
-  Neuroscience 2022.
-- *Samuel Diebolt*, Adrien Bertolo, Hippolyte de Valmont, Haleh Soleimanzad, Bruno-Felix
-  Osmanski, Mickael Tanter, Zsolt Lenkei, and Thomas Deffieux. "Strategies for
-  characterization and removal of motion artifacts in awake resting-state fUS" at EMIM
-  2023.
-- *Samuel Le Meur-Diebolt*, Jean-Charles Mariani, Thomas Deffieux, Andrea Kliewer, and
-  Zsolt Lenkei. "Brain-wide effects of cannabinoids, measured by fUSI, show strong
-  correlation with behavior in awake mice" at FENS Forum 2024.
 - *Samuel Le Meur-Diebolt*, Jean-Charles Mariani, Thomas Deffieux, Andrea Kliewer, and
   Zsolt Lenkei. "Brain-wide effects of cannabinoids, measured by fUSI, show strong
   correlation with behavior in awake mice" at SfN Neuroscience 2024.
-
-
+- *Samuel Le Meur-Diebolt*, Jean-Charles Mariani, Thomas Deffieux, Andrea Kliewer, and
+  Zsolt Lenkei. "Brain-wide effects of cannabinoids, measured by fUSI, show strong
+  correlation with behavior in awake mice" at FENS Forum 2024.
+- Chloé Galipeau, Miguel Farinha-Ferreira, Jean-Charles Mariani, *Samuel Diebolt*, Louis
+  Barthe, Renata Santos, Zsolt Lenkei, and Ana Sebastião. "Unravelling the role of
+  5-HT2AR activation in the long-lasting behavioral effects of psilocybin" at IBRO 2023.
+- *Samuel Diebolt*, Adrien Bertolo, Hippolyte de Valmont, Haleh Soleimanzad, Bruno-Félix
+  Osmanski, Mickael Tanter, Zsolt Lenkei, and Thomas Deffieux. "Strategies for
+  characterization and removal of motion artifacts in awake resting-state fUS" at EMIM 2023.
+- *Samuel Diebolt*, Jean-Charles Mariani, Andrea Kliewer, Laurianne Beynac, Renata
+  Santos, Bruno-Félix Osmanski, Mickael Tanter, Thomas Deffieux, and Zsolt Lenkei.
+  "Benchmarking of individual-level preprocessing strategies for pharmaco-fUS" at SfN
+  Neuroscience 2022.
+- Silvia Cazzanelli, *Samuel Diebolt*, Adrien Bertolo, Jérémy Ferrier, Mathis Vert, Thomas
+  Deffieux, Bruno F. Osmanski, Mickael Tanter, and Sophie Pezet. "Functional alterations
+  of intrinsic networks at various stages of neuropathic pain and comorbidity
+  development" at FENS Forum 2022.
+- Jean-Charles Mariani, *Samuel Diebolt*, Laurianne Beynac, Thomas Deffieux, Mickael
+  Tanter, Renata Santos, Andrea Kliewer, Zsolt Lenkei. "Functional Fingerprinting of
+  Drugs on Brain Activation and Connectivity Patterns in the Awake Mouse Brain" at FENS
+  Forum 2022.
+- *Samuel Diebolt*, Jean-Charles Mariani, Andrea Kliewer, Laurianne Beynac, Renata
+  Santos, Bruno-Félix Osmanski, Mickael Tanter, Thomas Deffieux, and Zsolt Lenkei.
+  "Benchmarking of individual-level preprocessing strategies for pharmaco-fUS" at FENS
+  Forum 2022.
+- Jean-Charles Mariani, *Samuel Diebolt*, Bruno-Félix Osmanski, Jérémy Ferrier, Mickael
+  Tanter, Thomas Deffieux, and Zsolt Lenkei. "Standardization of datasets: towards
+  fUS-BIDS?" at fUSbrain 2022.
+- Jean-Charles Mariani, *Samuel Diebolt*, Laurianne Beynac, Thomas Deffieux, Mickael
+  Tanter, Renata Santos, Andrea Kliewer, and Zsolt Lenkei. "Functional fingerprinting of
+  drugs on brain activation and connectivity patterns in the awake mouse brain" at
+  fUSbrain 2022.
+- Jean-Charles Mariani, *Samuel Diebolt*, Laurianne Beynac, Thomas Deffieux, Mickael
+  Tanter, Renata Santos, Zsolt Lenkei, and Andrea Kliewer. "Functional opioid
+  fingerprints in the awake mouse brain" at fUSbrain 2022.
+- Silvia Cazzanelli, *Samuel Diebolt*, Adrien Bertolo, Jérémy Ferrier, Mathis Vert,
+  Thomas Deffieux, Bruno F. Osmanski, Mickael Tanter, and Sophie Pezet. "Functional
+  alterations of intrinsic networks at various stages of neuropathic pain and
+  comorbidity development" at fUSbrain 2022.
+- *Samuel Diebolt*, Jean-Charles Mariani, Andrea Kliewer, Laurianne Beynac, Renata
+  Santos, Thomas Deffieux, and Zsolt Lenkei.
+  "Benchmarking of individual-level preprocessing strategies for pharmaco-fUS" at
+  fUSbrain 2022.
