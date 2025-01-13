@@ -274,6 +274,10 @@
   Santos, Bruno-Félix Osmanski, Mickael Tanter, Thomas Deffieux, and Zsolt Lenkei.
   "Benchmarking of individual-level preprocessing strategies for pharmaco-fUS" at SfN
   Neuroscience 2022.
+- Lauriane Delay, *Samuel Diebolt*, Nathalie Ialy-Radio, Thomas Deffieux, Mickaël
+  Tanter, and Sophie Pezet. "Functional brain and trigeminovascular changes in migraine
+  using a new approach of neuroimaging: the functional ultrasound imaging (fUSi)" at
+  SfN Neuroscience 2022.
 - Silvia Cazzanelli, *Samuel Diebolt*, Adrien Bertolo, Jérémy Ferrier, Mathis Vert, Thomas
   Deffieux, Bruno F. Osmanski, Mickael Tanter, and Sophie Pezet. "Functional alterations
   of intrinsic networks at various stages of neuropathic pain and comorbidity
