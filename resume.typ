@@ -242,10 +242,11 @@
 = Publications
 
 #set text(size: 7pt)
-- Nicolas Zucker, *Samuel Le Meur-Diebolt*, Felipe Cybis Pereira, Jerome Baranger,
-  Isabella Hurvitz, Charlie Demené, Bruno Osmanski, et al. “PhysiofUS : A Tissue-Motion
-  Based Method for Heart and Breathing Rate Assessment in Neurofunctional Ultrasound
-  Imaging,” September 24, 2024. https://doi.org/10.1101/2024.09.22.614324.
+- Nicolas Zucker, *Samuel Le Meur-Diebolt*, Felipe Cybis Pereira, Jérôme Baranger,
+  Isabella Hurvitz, Charlie Demené, Bruno-Félix Osmanski, et al. “Physio-fUS: A
+  Tissue-Motion Based Method for Heart and Breathing Rate Assessment in Neurofunctional
+  Ultrasound Imaging.” eBioMedicine 112 (February 2025): 105581.
+  https://doi.org/10.1016/j.ebiom.2025.105581.
 - Jean-Charles Mariani, *Samuel Diebolt*, Laurianne Beynac, Renata Santos, Stefan
   Schulz, Thomas Deffieux, Mickael Tanter, Zsolt Lenkei, and Andrea Kliewer.
   “Opioid-Induced Inter-Regional Dysconnectivity Correlates with Analgesia in Awake
