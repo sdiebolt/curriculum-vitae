@@ -1,4 +1,4 @@
-#import "@preview/modern-cv:0.7.0": *
+#import "@preview/modern-cv:0.8.0": *
 
 #show: resume.with(
   author: (
@@ -7,13 +7,13 @@
     github: "sdiebolt",
     scholar: "Samuel Diebolt",
     orcid: "0000-0002-9788-7263",
-    twitter: "SamuelDiebolt",
     linkedin: "Samuel Le Meur-Diebolt",
     positions: (
       "Research Engineer",
       "PhD Candidate",
     ),
   ),
+  profile-picture: none,
   date: datetime.today().display(),
   language: "en",
   colored-headers: true,
