@@ -1,5 +1,6 @@
 #import "@preview/modern-cv:0.8.0": *
 
+
 #show: resume.with(
   author: (
     firstname: "Samuel",
@@ -9,8 +10,8 @@
     orcid: "0000-0002-9788-7263",
     linkedin: "Samuel Le Meur-Diebolt",
     positions: (
-      "Research Engineer",
       "PhD Candidate",
+      "Research Engineer",
     ),
   ),
   profile-picture: none,
@@ -19,6 +20,58 @@
   colored-headers: true,
   show-footer: false,
 )
+
+= Education
+
+#resume-entry(
+  title: "PSL Research University",
+  location: "Paris, France",
+  date: "Dec. 2021 - expected Jul. 2025",
+  description: "Doctor of Philosophy",
+  title-link: "https://psl.eu/en",
+)
+
+#resume-item[
+  - _Project_: 3D fUS imaging applied to the pharmacological fingerprinting of
+    functional connectivity
+  - _Advisors_: Zsolt Lenkei, MD PhD & Thomas Deffieux, PhD
+  - _Partners_: Iconeus, Physics for Medicine, Institute of Psychiatry and Neuroscience
+    of Paris
+  - _Skills_: *Functional ultrasound imaging* #sym.dot.op *Signal processing*
+    #sym.dot.op *Statistical modeling* #sym.dot.op *Pharmacological studies* #sym.dot.op
+    *Mouse experimentation* #sym.dot.op *Python* #sym.dot.op *MATLAB*
+]
+
+#resume-entry(
+  title: "Mines Paris - PSL",
+  location: "Paris, France",
+  date: "Aug. 2020 - Dec. 2021",
+  description: "Master's Degree in Science and Executive Engineering (Diplôme d'Ingénieur)",
+  title-link: "https://www.minesparis.psl.eu/en/home/",
+)
+
+#resume-item[
+  - Relevant courses: *Data analysis* #sym.dot.op *Extreme value statistics* #sym.dot.op
+    *Combinatorial & stochastic optimization* #sym.dot.op *Civil & labour law*
+    #sym.dot.op *Management accounting* #sym.dot.op *Corporate governance*
+  - Grade: GPA 3.5/4.0
+]
+
+#resume-entry(
+  title: "ESPCI Paris - PSL",
+  location: "Paris, France",
+  date: "Aug. 2017 - Dec. 2021",
+  description: "Master's Degree in Engineering and Biotechnology (Diplôme d'Ingénieur)",
+  title-link: "https://www.espci.psl.eu/en/",
+)
+
+#resume-item[
+  - Relevant 3rd year courses: *Systems Biology and Neurobiology* #sym.dot.op
+    *Chemical Biology and Molecular Biotechnology* #sym.dot.op *Machine & deep Learning*
+    #sym.dot.op *Applied statistics* #sym.dot.op *Mathematics (Numerical, Functional &
+    Complex Analysis, Probability Theory)*
+  - Grade: GPA 4.0/4.0
+]
 
 = Experience
 
@@ -34,9 +87,9 @@
     ultrasound imaging in awake rodents.
   - Developing novel methods for functional connectivity fingerprinting in
     pharmacological studies.
-  - _Skills_: *Brain imaging* #sym.dot.op *Signal processing* #sym.dot.op *Statistical
-    modeling* #sym.dot.op *Machine learning* #sym.dot.op *Pharmacological studies*
-    #sym.dot.op *Animal experimentation* #sym.dot.op *Python* #sym.dot.op *MATLAB*
+  - _Skills_: *Functional ultrasound imaging* #sym.dot.op *Signal processing*
+    #sym.dot.op *Statistical modeling* #sym.dot.op *Pharmacological studies* #sym.dot.op
+    *Mouse experimentation* #sym.dot.op *Python* #sym.dot.op *MATLAB*
 ]
 
 #resume-entry(
@@ -184,65 +237,22 @@
   "Spoken Languages",
   (
     strong("French (native)"),
-    strong("English (fluent)"),
+    strong("English (proficient)"),
     "German (basic)",
   ),
 )
 
-= Education
-
-#resume-entry(
-  title: "PSL Research University",
-  location: "Paris, France",
-  date: "Dec. 2021 - expected Apr. 2025",
-  description: "Doctor of Philosophy",
-  title-link: "https://psl.eu/en",
-)
-
-#resume-item[
-  - _Project_: 3D fUS imaging applied to the pharmacological fingerprinting of
-    functional connectivity.
-  - _Advisors_: Zsolt Lenkei, MD PhD & Thomas Deffieux, PhD
-  - _Partners_: Iconeus, Physics for Medicine, Institute of Psychiatry and Neuroscience
-    of Paris
-]
-
-#resume-entry(
-  title: "Mines Paris - PSL",
-  location: "Paris, France",
-  date: "Aug. 2020 - Dec. 2021",
-  description: "Master's Degree in Science and Executive Engineering (Diplôme d'Ingénieur)",
-  title-link: "https://www.minesparis.psl.eu/en/home/",
-)
-
-#resume-item[
-  - Relevant courses: *Civil & labour law* #sym.dot.op *Management accounting*
-    #sym.dot.op *Corporate governance* #sym.dot.op *Blockchain* #sym.dot.op *Computer
-    networks* #sym.dot.op *Data analysis (FA, CA, PCA, Clustering)* #sym.dot.op *Extreme
-    value statistics* #sym.dot.op *Combinatorial & stochastic optimization*
-  - Grade: GPA 3.5/4.0
-]
-
-#resume-entry(
-  title: "ESPCI Paris - PSL",
-  location: "Paris, France",
-  date: "Aug. 2017 - Dec. 2021",
-  description: "Master's Degree in Engineering and Biotechnology (Diplôme d'Ingénieur)",
-  title-link: "https://www.espci.psl.eu/en/",
-)
-
-#resume-item[
-  - Relevant 3rd year courses: *Systems Biology and Neurobiology* #sym.dot.op
-    *Chemical Biology and Molecular Biotechnology* #sym.dot.op *Machine & deep Learning*
-    #sym.dot.op *Applied statistics* #sym.dot.op *Mathematics (Numerical, Functional &
-    Complex Analysis, Probability Theory)*
-  - Grade: GPA 4.0/4.0
-]
+#v(.5em)
 
 = Publications
 
 #set text(size: 7pt)
-- Nicolas Zucker, *Samuel Le Meur-Diebolt*, Felipe Cybis Pereira, Jérôme Baranger,
+- Zoumpoulaki, Martha, Giovanni Chiappetta, Jean Bouvet, Namita‐Raju John, Gabrielle
+  Schanne, Pauline Gehan, *Samuel Diebolt*, et al. “Kinetic Redox Shotgun Proteomics
+  Reveals Specific Lipopolysaccharide Effects on Intestinal Epithelial Cells, Mitigated
+  by a Mn Superoxide Dismutase Mimic.” Angewandte Chemie International Edition, March
+  22, 2025, e202422644. https://doi.org/10.1002/anie.202422644.
+- Zucker, Nicolas, *Samuel Le Meur-Diebolt*, Felipe Cybis Pereira, Jérôme Baranger,
   Isabella Hurvitz, Charlie Demené, Bruno-Félix Osmanski, et al. “Physio-fUS: A
   Tissue-Motion Based Method for Heart and Breathing Rate Assessment in Neurofunctional
   Ultrasound Imaging.” eBioMedicine 112 (February 2025): 105581.
