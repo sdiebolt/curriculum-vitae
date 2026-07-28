@@ -1,4 +1,4 @@
-#import "@preview/modern-cv:0.8.0": *
+#import "@preview/modern-cv:0.10.0": *
 
 
 #show: resume.with(
@@ -18,6 +18,8 @@
   date: datetime.today().display(),
   language: "en",
   colored-headers: true,
+  font: "Inter",
+  header-font: "Inter Display",
   show-footer: false,
 )
 
