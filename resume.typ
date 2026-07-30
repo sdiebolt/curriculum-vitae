@@ -10,8 +10,7 @@
     orcid: "0000-0002-9788-7263",
     linkedin: "Samuel Le Meur-Diebolt",
     positions: (
-      "PhD Candidate",
-      "Research Engineer",
+      "Research Fellow",
     ),
   ),
   profile-picture: none,
@@ -28,7 +27,7 @@
 #resume-entry(
   title: "PSL Research University",
   location: "Paris, France",
-  date: "Dec. 2021 - expected Jul. 2025",
+  date: "Dec. 2021 - Oct. 2025",
   description: "Doctor of Philosophy",
   title-link: "https://psl.eu/en",
 )
@@ -75,12 +74,26 @@
   - Grade: GPA 4.0/4.0
 ]
 
-= Experience
+= Research Experience
+
+#resume-entry(
+  title: "Research Fellow",
+  location: "London, United Kingdom",
+  date: "Oct. 2025 - Present",
+  description: "Cortexlab, University College London",
+  title-link: "https://www.ucl.ac.uk/brain-sciences/cortexlab",
+)
+#resume-item[
+  - Combining *functional ultrasound imaging* and *fiber photometry* to study neural
+    dynamics in behaving animals.
+  - _Skills_: *Functional ultrasound imaging* #sym.dot.op *Fiber photometry*
+    #sym.dot.op *Signal processing* #sym.dot.op *Python*
+]
 
 #resume-entry(
   title: "Research Engineer",
   location: "Paris, France",
-  date: "Sep. 2021 - Present",
+  date: "Sep. 2021 - Oct. 2025",
   description: "ICONEUS",
   title-link: "https://iconeus.com/",
 )
@@ -187,68 +200,29 @@
     modeling* #sym.dot.op *System administration* #sym.dot.op *R*
 ]
 
-= Skills
-
-
-#resume-skill-item(
-  "Programming",
-  (
-    strong("Python"),
-    strong("MATLAB"),
-    "R",
-    "Rust",
-  ),
-)
-
-#resume-skill-item(
-  "Version Control",
-  (
-    strong("Git"),
-    strong("GitHub"),
-    strong("GitHub Actions"),
-  ),
-)
-
-#resume-skill-item(
-  "Sysadmin",
-  (
-    strong("Linux"),
-    strong("Bash"),
-    "Docker",
-  ),
-)
-
-#resume-skill-item(
-  "Publishing",
-  (
-    strong("LaTeX"),
-    strong("Typst"),
-    "Office Suite",
-  ),
-)
-
-#resume-skill-item(
-  "Prototyping",
-  (
-    "Arduino",
-    "Raspberry Pi",
-  ),
-)
-
-#resume-skill-item(
-  "Spoken Languages",
-  (
-    strong("French (native)"),
-    strong("English (proficient)"),
-    "German (basic)",
-  ),
-)
-
-#v(.5em)
-
 = Publications
 
 #set text(size: 7pt)
+- *Samuel Le Meur-Diebolt*, Felipe Cybis Pereira, Jean-Charles Mariani, Andrea Kliewer,
+  Miguel Farinha-Ferreira, Adrien Bertolo, Bruno-Félix Osmanski, Zsolt Lenkei, and
+  Thomas Deffieux. “Robust Functional Ultrasound Imaging in the Awake and Behaving
+  Brain: A Systematic Framework for Motion Artifact Removal.” Imaging Neuroscience,
+  April 7, 2026. https://doi.org/10.1162/IMAG.a.1191.
+- Jean-Charles Mariani, *Samuel Le Meur-Diebolt*, Laurianne Beynac, Renata Santos,
+  Stefan Schulz, Thomas Deffieux, Mickael Tanter, Zsolt Lenkei, and Andrea Kliewer.
+  “Opioid-Specific Brain Connectivity Dynamics Distinguish Analgesia from Secondary
+  Effects: Studies in Male Mice.” Proceedings of the National Academy of Sciences,
+  March 17, 2026. https://doi.org/10.1073/pnas.2505464123.
+- Myriam Abioui-Mourgues, Amandine Elodie Bonnet, Canelle C.M. Lepillier, Camille
+  Brodin, *Samuel Diebolt*, Kaciel Béraud, Mickaël Tanter, Thomas Deffieux, Denis
+  Vivien, and Cyrille Orset. “Functional Ultrasound Imaging Uncovers Vascular
+  Connectivity and Dynamics in Awake Mice During Hyperacute Stroke Phase.” Stroke,
+  January 2026. https://doi.org/10.1161/STROKEAHA.125.052950.
+- Felipe Cybis Pereira, Sebastian H. Castedo, *Samuel Le Meur-Diebolt*, Nathalie
+  Ialy-Radio, Soumee Bhattacharya, Jeremy Ferrier, Bruno Félix Osmanski, Simona Cocco,
+  Remi Monasson, Sophie Pezet, and Mickaël Tanter. “A Vascular Code for Speed in the
+  Spatial Navigation System.” Cell Reports, January 2026.
+  https://doi.org/10.1016/j.celrep.2025.116791.
 - Zoumpoulaki, Martha, Giovanni Chiappetta, Jean Bouvet, Namita‐Raju John, Gabrielle
   Schanne, Pauline Gehan, *Samuel Diebolt*, et al. “Kinetic Redox Shotgun Proteomics
   Reveals Specific Lipopolysaccharide Effects on Intestinal Epithelial Cells, Mitigated
@@ -259,10 +233,6 @@
   Tissue-Motion Based Method for Heart and Breathing Rate Assessment in Neurofunctional
   Ultrasound Imaging.” eBioMedicine 112 (February 2025): 105581.
   https://doi.org/10.1016/j.ebiom.2025.105581.
-- Jean-Charles Mariani, *Samuel Diebolt*, Laurianne Beynac, Renata Santos, Stefan
-  Schulz, Thomas Deffieux, Mickael Tanter, Zsolt Lenkei, and Andrea Kliewer.
-  “Opioid-Induced Inter-Regional Dysconnectivity Correlates with Analgesia in Awake
-  Mouse Brains,” July 31, 2024. https://doi.org/10.1101/2024.07.30.604249.
 - Adrien Bertolo, Jeremy Ferrier, Silvia Cazzanelli, *Samuel Diebolt*, Mickael Tanter,
   Sophie Pezet, Mathieu Pernot, Bruno-Félix Osmanski, and Thomas Deffieux. “High
   Sensitivity Mapping of Brain-Wide Functional Networks in Awake Mice Using Simultaneous
@@ -271,6 +241,13 @@
 
 = Posters in International Conferences
 
+- *Samuel Le Meur-Diebolt*, Jean-Charles Mariani, Alessandro Gozzi, Zsolt Lenkei, and
+  Thomas Deffieux. "Structuring and sharing fUSI datasets using fUSI-BIDS" at fUSbrain
+  \#DAYS 2025.
+- *Samuel Le Meur-Diebolt*, Felipe Cybis Pereira, Jean-Charles Mariani, Andrea Kliewer,
+  Miguel Farinha-Ferreira, Adrien Bertolo, Bruno-Félix Osmanski, Zsolt Lenkei, and
+  Thomas Deffieux. "Robust fUSI in the awake and behaving brain: a systematic framework
+  for motion artifact removal" at fUSbrain \#DAYS 2025.
 - *Samuel Le Meur-Diebolt*, Jean-Charles Mariani, Thomas Deffieux, Andrea Kliewer, and
   Zsolt Lenkei. "Brain-wide effects of cannabinoids, measured by fUSI, show strong
   correlation with behavior in awake mice" at SfN Neuroscience 2024.
